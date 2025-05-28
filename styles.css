@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url('/wallpaperbetter.jpg'); /* Usa aquí la imagen que tengas */
+background-image: url('../wallpaperbetter.jpg');
   margin: 0;
   padding: 0;
   display: flex;
